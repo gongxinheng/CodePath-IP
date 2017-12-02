@@ -71,4 +71,3 @@ public class Solution {
 	    return ans.reverse().toString().replaceFirst("^0*", "");
 	}
 }
-
